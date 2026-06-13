@@ -6,10 +6,9 @@
 
 ## 📽️ Demo
 
-<!-- Upload your video to YouTube and paste the link below -->
-> 🎥 [Watch Demo Video](#) *(link coming soon)*
 
-![Prototype](media/prototype_views.jpg)
+
+![Prototype](Protoype.png)
 
 ---
 
